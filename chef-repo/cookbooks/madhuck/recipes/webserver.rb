@@ -16,8 +16,3 @@ service webpack do
 end
 
 
-node['madhuck']['loop'].each do |loappack|
-package loappack do
-    action :install
-end
-end
