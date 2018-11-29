@@ -15,4 +15,4 @@ default['platform']="ravi"
 
 default['madhuck']['loop']=['git','tree','wget']
 
-default['java']['jdk_version'] = '7'
+default['java']['jdk_version'] = '8'
